@@ -1,0 +1,189 @@
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.exe.config
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.exe
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.pdb
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\MaterialDesignColors.dll
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\MaterialDesignColors.pdb
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.pdb
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.xml
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\LOGIN.g.cs
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02_MarkupCompile.cache
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02_MarkupCompile.lref
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\LOGIN.baml
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.g.resources
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO_02.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.exe
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.pdb
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\App.baml
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\MENU.g.cs
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\MENU.baml
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\MENUc.g.cs
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\MENUc.baml
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\REGISTRA VIDEOJUEGOS.g.cs
+c:\users\user\documents\visual studio 2015\Projects\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\REGISTRA VIDEOJUEGOS.baml
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.exe.config
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.exe
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.pdb
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\LOGIN.g.cs
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\MENU.g.cs
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\MENUc.g.cs
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\REGISTRA VIDEOJUEGOS.g.cs
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02_MarkupCompile.cache
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02_MarkupCompile.lref
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.exe
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.pdb
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\MaterialDesignColors.dll
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\MaterialDesignColors.pdb
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\App.baml
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\LOGIN.baml
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\MENU.baml
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\MENUc.baml
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\REGISTRA VIDEOJUEGOS.baml
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.g.resources
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO_02.Properties.Resources.resources
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\REGISTRAR_VENTA.baml
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\REGISTRAR_VENTA.g.cs
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.exe.config
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.exe
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.pdb
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.exe
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.pdb
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\MaterialDesignColors.dll
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\MaterialDesignColors.pdb
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\LOGIN.g.cs
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\MENU.g.cs
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\MENUc.g.cs
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02_MarkupCompile.cache
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02_MarkupCompile.lref
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\App.baml
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\LOGIN.baml
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\MENU.baml
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\MENUc.baml
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.g.resources
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO_02.Properties.Resources.resources
+C:\Users\USER\Desktop\VENTA DE JUEGOS\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Gamers4U\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.exe.config
+C:\Users\USER\Desktop\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.exe
+C:\Users\USER\Desktop\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.pdb
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.exe.config
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.exe
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.pdb
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.exe
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.pdb
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\bin\Debug\MaterialDesignColors.dll
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\bin\Debug\MaterialDesignColors.pdb
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\obj\Debug\LOGIN.g.cs
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\obj\Debug\MENU.g.cs
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\obj\Debug\MENUc.g.cs
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02_MarkupCompile.cache
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02_MarkupCompile.lref
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\obj\Debug\App.baml
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\obj\Debug\LOGIN.baml
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\obj\Debug\MENU.baml
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\obj\Debug\MENUc.baml
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.g.resources
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO_02.Properties.Resources.resources
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.exe.config
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.exe
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.pdb
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.exe
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.pdb
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\MaterialDesignColors.dll
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\MaterialDesignColors.pdb
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\LOGIN.g.cs
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\MENU.g.cs
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\MENUc.g.cs
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02_MarkupCompile.cache
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02_MarkupCompile.lref
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\App.baml
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\LOGIN.baml
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\MENU.baml
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\MENUc.baml
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.g.resources
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO_02.Properties.Resources.resources
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\RegistroCuenta.baml
+C:\Users\USER\Desktop\Fundamentos de Sistemas de Información\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\RegistroCuenta.g.cs
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.exe.config
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.exe
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.pdb
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.exe
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.pdb
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\MaterialDesignColors.dll
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\MaterialDesignColors.pdb
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\LOGIN.g.cs
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\MENU.g.cs
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\MENUc.g.cs
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\RegistroCuenta.g.cs
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\App.g.cs
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02_MarkupCompile.cache
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02_MarkupCompile.lref
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\App.baml
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\LOGIN.baml
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\MENU.baml
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\MENUc.baml
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\RegistroCuenta.baml
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.g.resources
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO_02.Properties.Resources.resources
+C:\Users\USER\Desktop\TPARCIAL-FUNDA\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\TP_XXXXXXXXXX\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.exe.config
+C:\Users\USER\Desktop\TP_XXXXXXXXXX\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.exe
+C:\Users\USER\Desktop\TP_XXXXXXXXXX\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.pdb
+E:\TP_XXXXXXXXXX\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.exe.config
+E:\TP_XXXXXXXXXX\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.exe
+E:\TP_XXXXXXXXXX\TP_XXXXXXXXX\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.pdb
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.exe.config
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.exe
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.pdb
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.exe
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\PROTOTIPO-02.pdb
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\MaterialDesignColors.dll
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\MaterialDesignColors.pdb
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.csprojResolveAssemblyReference.cache
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\LOGIN.g.cs
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\MENU.g.cs
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\MENUc.g.cs
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\RegistroCuenta.g.cs
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\App.g.cs
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02_MarkupCompile.cache
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02_MarkupCompile.lref
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\App.baml
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\LOGIN.baml
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\MENU.baml
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\MENUc.baml
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\RegistroCuenta.baml
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.g.resources
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO_02.Properties.Resources.resources
+G:\TP_201617329\TP_201617329\Gamers4U\PROTOTIPO-02\obj\Debug\PROTOTIPO-02.csproj.GenerateResource.Cache

@@ -1,0 +1,160 @@
+﻿<Window x:Class="PROTOTIPO_02.MENUc"
+        
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="{DynamicResource MaterialDesignPaper}"
+        TextElement.FontWeight="Medium"
+        TextElement.FontSize="14"
+        FontFamily="pack://application:,,,/MaterialDesignThemes.Wpf;component/Resources/Roboto/#Roboto"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PROTOTIPO_02"
+       mc:Ignorable="d" Height="630" Width="1000" WindowStyle="None" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Foreground="White" Loaded="Window_Loaded">
+    <Window.Resources>
+        <Storyboard x:Key="MenuOpen">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Width)" Storyboard.TargetName="GridMenu">
+                <EasingDoubleKeyFrame KeyTime="0" Value="70"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="200"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="MenuClose">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Width)" Storyboard.TargetName="GridMenu">
+                <EasingDoubleKeyFrame KeyTime="0" Value="200"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="60"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Window.Resources>
+
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="ButtonBase.Click" SourceName="ButtonOpenMenuc">
+            <BeginStoryboard Storyboard="{StaticResource MenuOpen}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="ButtonBase.Click" SourceName="ButtonCloseMenuc">
+            <BeginStoryboard Storyboard="{StaticResource MenuClose}"/>
+        </EventTrigger>
+    </Window.Triggers>
+
+    <Grid >
+        <Grid.Background>
+            <ImageBrush ImageSource="Recursos/FONDO.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+
+
+
+        <Border Background="Black"/>
+        <Border Grid.Row="0" Background="Transparent" MouseLeftButtonDown="Border_MouseLeftButtonDown" Grid.Column="1">
+            <Grid>
+                <materialDesign:ColorZone Mode="PrimaryDark" Background="Black">
+                    <StackPanel >
+                        <Button x:Name="btnCerrarTodo" Content="x" HorizontalAlignment="Right" Margin="0,0,10,0" VerticalAlignment="Top" Width="30" Height="30" Grid.RowSpan="2" Padding="0" Background="{x:Null}" BorderBrush="{x:Null}" FontSize="22" FontFamily="Verdana" HorizontalContentAlignment="Center" VerticalContentAlignment="Stretch" Click="btnCerrarTodo_Click"/>
+                    </StackPanel>
+                </materialDesign:ColorZone>
+                <Button x:Name="btnMinimizar" Content="-" HorizontalAlignment="Right" Margin="0,0,40,0" VerticalAlignment="Top" Width="30" Height="30" Padding="0" Background="{x:Null}" BorderBrush="{x:Null}" FontSize="22" FontFamily="Verdana" HorizontalContentAlignment="Center" Click="btnMinimizar_Click"/>
+            </Grid>
+        </Border>
+
+        <Grid Grid.Row="1" Background="#FF272626" Margin="0,0,0,540" Grid.ColumnSpan="2">
+
+            <TextBlock Text="MENU" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22" Foreground="White"/>
+            <StackPanel VerticalAlignment="Center" Orientation="Horizontal" HorizontalAlignment="Right">
+                <TextBlock Text="Cliente" VerticalAlignment="Center" FontSize="14" Foreground="#FFC5BCBC"/>
+                <materialDesign:PopupBox Margin="5" PlacementMode="BottomAndAlignRightEdges" StaysOpen="False" Foreground="White">
+                    <StackPanel >
+                        <Button Content="Opciones"/>
+                        <Button Content="Ayuda"/>
+                        <Separator/>
+                        <Button x:Name="BtnCerrar" Content="Cerrar sesión" Click="BtnCerrar_Click"/>
+                    </StackPanel>
+                </materialDesign:PopupBox>
+            </StackPanel>
+            <Label x:Name="lblNombreUsuario" Content="Label" HorizontalAlignment="Right" Margin="0,17,100,0" VerticalAlignment="Top" FontSize="14" Foreground="#FFC5BCBC"/>
+        </Grid>
+
+        <Grid x:Name="GridMenu" Width="60" HorizontalAlignment="Left" Background="#FF272626" Grid.Row="1">
+            <StackPanel>
+                <Grid Height="150" >
+                    <Grid.Background>
+                        <ImageBrush ImageSource="Recursos/LOGO.jpg.png" Stretch="UniformToFill"/>
+                    </Grid.Background>
+                    <Button x:Name="ButtonCloseMenuc" Width="60" Height="60" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Right" Visibility="Collapsed" Click="ButtonCloseMenuc_Click">
+                        <materialDesign:PackIcon Foreground="White" Kind="ArrowLeft" Width="25" Height="25"/>
+                    </Button>
+                    <Button x:Name="ButtonOpenMenuc" Width="60" Height="Auto" Background="{x:Null}" BorderBrush="{x:Null}" HorizontalAlignment="Right" Click="ButtonOpenMenuc_Click" Margin="0,0,0,110">
+                        <materialDesign:PackIcon Foreground="White" Kind="Menu" Width="25" Height="25"/>
+                    </Button>
+                </Grid>
+                <ListView ScrollViewer.HorizontalScrollBarVisibility="Disabled" Foreground="#FFC5BCBC">
+                    <ListViewItem Height="60" x:Name="btnHome">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="Home" Width="25" Height="25" Margin="10" VerticalAlignment="Center" Foreground="#FF9131F1"/>
+                            <TextBlock Text="Inicio" VerticalAlignment="Center" Margin="5,10"/>
+                        </StackPanel>
+                    </ListViewItem>
+                    <ListViewItem Height="60" x:Name="btnRegistroVentaDelCliente">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="ShoppingCart" Width="25" Height="25" Margin="10" VerticalAlignment="Center" Foreground="#FF9131F1"/>
+                            <TextBlock Text="Comprar" VerticalAlignment="Center" Margin="5,10"/>
+                        </StackPanel>
+                    </ListViewItem>
+                    <ListViewItem Height="60" x:Name="btnVideojuegosDelCliente">
+                        <StackPanel Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="Extension" Width="25" Height="25" Margin="10" VerticalAlignment="Center" Foreground="#FF9131F1"/>
+                            <TextBlock Text="Mis juegos" VerticalAlignment="Center" Margin="5,10"/>
+                        </StackPanel>
+                    </ListViewItem>
+
+
+                    <ListView.ItemContainerStyle>
+                        <Style TargetType="ListViewItem">
+                            <EventSetter Event="PreviewMouseLeftButtonDown" Handler="ListViewItem_PreviewMouseLeftButtonDown" />
+                        </Style>
+                    </ListView.ItemContainerStyle>
+
+                </ListView>
+
+
+
+            </StackPanel>
+        </Grid>
+
+        <Grid x:Name="frmJuegosCliente"  Grid.Row="1" Grid.Column="1"  Margin="298,103,115,91" Visibility="Collapsed" HorizontalAlignment="Center" Background="LightGray" Width="587">
+            <Grid Height="32" VerticalAlignment="Top"  Background="#FF272626">
+                <TextBlock Text="Mis juegos"  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10" FontSize="12" Foreground="White"/>
+            </Grid>
+            <ListBox x:Name="lbVideojuegosDeUsuario"  HorizontalAlignment="Left" Height="327" Margin="82,59,0,0" VerticalAlignment="Top" Width="426" Background="White"/>
+
+        </Grid>
+
+
+        <Grid x:Name="frmHome" Grid.Row="1" Margin="249,97,58,76" HorizontalAlignment="Center" Visibility="Visible"  Width="693">
+            <Label  x:Name="labelHora"   HorizontalAlignment="Right" Margin="0,60,10,0" VerticalAlignment="Top" Height="129" Width="673" Foreground="#FFC5BCBC" FontSize="100" />
+
+            <Label  x:Name="labelFecha"  HorizontalAlignment="Left" Margin="92,227,0,0" VerticalAlignment="Top" Height="131" Width="591" Foreground="#FFC5BCBC" FontSize="36"     />
+        </Grid>
+        <Label x:Name="label" Content="Gamers4U" HorizontalAlignment="Left" Margin="6,3,0,0"  VerticalAlignment="Top" Height="25" Width="83" Foreground="#FF686564" FontFamily="Segoe UI Black"/>
+
+
+        <Grid x:Name="frmRegistroVenta" Grid.Row="1" Margin="298,103,115,91" HorizontalAlignment="Center" Visibility="Collapsed"  Background="LightGray" Width="587">
+            <Grid Height="32" VerticalAlignment="Top"  Background="#FF272626">
+                <TextBlock Text="COMPRAR VIDEOJUEGO" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10" FontSize="12" Foreground="White"/>
+            </Grid>
+            <ListBox x:Name="lstbxVideojuegos" HorizontalAlignment="Left" Height="219" Margin="152,84,0,0" VerticalAlignment="Top" Width="308" Background="White" SelectionMode="Multiple" BorderBrush="Black"/>
+            <Label x:Name="label1" Content="Selecciona el videojuego a comprar:" HorizontalAlignment="Left" Margin="152,53,0,0" VerticalAlignment="Top" Height="27" Width="246"/>
+            <Button x:Name="btnRegistrarVenta" Content="Comprar" HorizontalAlignment="Left" Margin="152,332,0,0" VerticalAlignment="Top" Width="308" Background="#FF673AB7" Click="btnRegistrarVenta_Click"/>
+        </Grid>
+
+
+
+    </Grid>
+
+</Window>
